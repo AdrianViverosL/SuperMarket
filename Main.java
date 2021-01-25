@@ -3,6 +3,8 @@ Main Class where the excution of the SuperMarket is going to happen
 This Class has some methods to perform actions related with the products sorting, and 
 console display
 
+More details below. 
+
 Created by Adrian Viveros L.
 January 2021
 **/
